@@ -8,6 +8,6 @@ We are a group of developers dedicated to the creation of applications and game-
 
 ## Featured applications
 
-- [GTAFun](www.google.com)
+- [GTAFun](/)
 
 ~~HaveFun is searching new people keen on Development and Modding.~~
